@@ -1,6 +1,6 @@
 {
   "name": "dom-node-types",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Exports the name/value pairs of DOM Node types",
   "main": "index.js",
   "scripts": {
