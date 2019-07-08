@@ -1,13 +1,15 @@
-
 # dom-node-types
 
-This module just exports the name/value pairs of [DOM Node types](https://dom.spec.whatwg.org/#node).
-It's trivial, but I find myself needing it regularly and including a dependency on a complete DOM
+This module just exports the name/value pairs
+of [DOM Node types](https://dom.spec.whatwg.org/#node).  It's trivial, but I
+find myself needing it regularly and including a dependency on a complete DOM
 implementation is overkill. I got tired of pasting this around, so it's here.
 
 ## Installation
 
-    npm install dom-node-types
+```sh
+npm install dom-node-types
+```
 
 ## API
 

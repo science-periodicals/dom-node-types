@@ -8,21 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/scienceai/dom-node-types.git"
+    "url": "https://github.com/science-periodicals/dom-node-types.git"
   },
   "keywords": [
     "Document",
     "Node",
     "type"
   ],
-  "author": "Robin Berjon <robin@standardanalytics.io>",
+  "author": "Robin Berjon",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/scienceai/dom-node-types/issues"
+    "url": "https://github.com/science-periodicals/dom-node-types/issues"
   },
-  "homepage": "https://github.com/scienceai/dom-node-types",
+  "homepage": "https://github.com/science-periodicals/dom-node-types",
   "devDependencies": {
-    "mocha": "2.4.5"
-  },
-  "dependencies": {}
+    "mocha": "^6.1.4"
+  }
 }
